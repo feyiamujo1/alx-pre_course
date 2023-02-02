@@ -1,2 +1,1 @@
-My first readme
-ALX School is going great
+Yes, I have learnt new stuff, from ALX
