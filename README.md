@@ -1,1 +1,1 @@
-Yes, I have learnt new stuffS from ALX
+Yes, I have learnt new stuffs from ALX
